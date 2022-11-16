@@ -1,0 +1,32 @@
+.todo{
+margin-top: 50px;
+margin-left: 100px;
+margin-right: 100px;
+margin-bottom: 50px;
+text-align: left;
+font-size: 23px;
+}
+.body{
+    background-color: rgb(243, 243, 243);
+}
+footer{
+    background-color: #3378ad;
+    padding-bottom: 175px;
+}
+.titulos{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+}
+.sub{
+    font-weight: bolder;
+    font-size: 30px;
+}
+.ftr{
+    font-size: 18px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.layout{
+    width: 800px;
+}
